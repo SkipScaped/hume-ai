@@ -44,7 +44,7 @@ export default function StartCall() {
                     stroke={"currentColor"}
                   />
                 </span>
-                <span>Start Call, By Aaliyan</span>
+                <span>Start Call | By Aaliyan</span>
               </Button>
             </motion.div>
           </AnimatePresence>
