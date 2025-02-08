@@ -48,9 +48,9 @@ export const Nav = () => {
           className={"ml-auto flex items-center gap-1.5"}
         >
           <span>
-            <Github className={"size-4"} />
+            <Github className={"size-0"} />
           </span>
-          <span>Star on GitHub</span>
+          <span></span>
         </Button>
         <Button
           onClick={toggleDark}
