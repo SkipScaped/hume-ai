@@ -6,7 +6,7 @@ import { Nav } from "@/components/Nav";
 import { cn } from "@/utils";
 
 export const metadata: Metadata = {
-  title: "Hume AI - Pro",
+  title: "Hume EVI - Pro",
   description: "A voice AI made using  Hume AI's API + Empathic Voice Interface | By Aaliyan",
 };
 
